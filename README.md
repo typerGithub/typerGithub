@@ -63,7 +63,7 @@
 </div>  
   
 
-<br/>  
+<br/>
 
 
 ## Github Stats  
@@ -72,3 +72,8 @@
 <br/>  
 
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=typerGithub&&style=flat-square" align="center" />
+</div> 
+
+<br/>
