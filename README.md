@@ -19,7 +19,7 @@
 ### <div align="center">I'm Alex, an Arduino developer 👨‍💻 I'm making Arduino projects </div>  
   
 
-- 🔭 I’m currently working on [ESPGarden](https://github.com/typerGithub/ESPGarden)  
+- 🔭 I’m currently working on [ESPGardening](https://github.com/typerGithub/ESPGardening)  
   
 
 - 🌱 I’m currently learning Python  
